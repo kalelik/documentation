@@ -118,7 +118,7 @@ available on Odoo.
 - :doc:`Switzerland - Accounting <fiscal_localizations/switzerland>`
 - Taiwan - Accounting
 - :doc:`Thailand - Accounting <fiscal_localizations/thailand>`
-- Turkey - Accounting
+- Turkey - Accounting <fiscal_localizations/turkey>
 - :doc:`United Arab Emirates - Accounting <fiscal_localizations/united_arab_emirates>`
 - :doc:`UK - Accounting <fiscal_localizations/united_kingdom>`
 - Ukraine - Accounting
